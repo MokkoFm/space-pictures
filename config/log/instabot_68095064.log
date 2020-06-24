@@ -1,0 +1,33 @@
+2020-06-24 22:54:13,954 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-24 22:54:13,955 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\mokko\AppData\Local\Programs\Python\Python38-32\lib\site-packages\instabot\bot\bot.py
+2020-06-24 22:54:13,961 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-24 22:54:13,962 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-24 22:54:13,962 - instabot version: 0.117.0 (api_login) - INFO - Recovery from c:\Users\mokko\Desktop\space-pictures/config/python_project_space_pictures_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=42eea3d6-fff6-4c0a-8aa2-d76b93df318f
+- uuid=cb53ba7f-fba1-4cb7-88c0-1e1becc5b664
+- client_session_id=156b4897-b040-4c0c-a9c5-17d717f5d649
+- device_id=android-f12e7ee97617f2ad
+2020-06-24 22:54:13,963 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-24 22:54:17,934 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-24 22:54:18,356 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-24 22:54:18,770 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-06-24 22:54:19,084 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-06-24 22:54:19,409 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-06-24 22:54:19,726 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-06-24 22:54:20,319 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-06-24 22:54:20,622 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-06-24 22:54:21,529 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-06-24 22:54:21,533 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'python_project_space_pictures'!
+2020-06-24 22:54:21,533 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: c:\Users\mokko\Desktop\space-pictures/config/python_project_space_pictures.checkpoint
+2020-06-24 22:54:42,163 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-06-24 22:54:42,469 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-06-24 22:54:42,470 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'images/hubble.jpg' is uploaded.
+2020-06-24 22:55:02,726 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-06-24 22:55:03,027 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-06-24 22:55:03,030 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'images/hubble1.jpg' is uploaded.
+2020-06-24 22:55:24,311 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-06-24 22:55:24,617 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-06-24 22:55:24,620 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'images/spacex0.jpg' is uploaded.
+2020-06-24 22:55:24,622 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: c:\Users\mokko\Desktop\space-pictures/config/python_project_space_pictures.checkpoint
+2020-06-24 22:55:24,624 - instabot version: 0.117.0 (bot) - INFO - Total requests: 57
