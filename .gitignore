@@ -2,6 +2,14 @@
 /.vscode
 /.DS_Store 
 /config
-.env
 /poetry.lock
 /pyproject.toml
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
