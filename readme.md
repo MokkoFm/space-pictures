@@ -4,10 +4,10 @@ The program helps you to get pictures of space from API of Hubble and SpaceX and
 
 ### How to install
 
-You can put your login and password from Instagram here: 
+You can put your login and password from Instagram in your own .env-file:
 ```
-insta_login = os.getenv("LOGIN")
-insta_password = os.getenv("PASSWORD")
+LOGIN = your login from instagram
+PASSWORD = your password from instagram
 ```
 
 If you want to do it with safety, you can use .env file. 
